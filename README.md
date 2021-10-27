@@ -1,4 +1,4 @@
-# gatsby-typescript-starter
+# gatsby-3-typescript-starter
 
 [![Released under MIT license.](https://badgen.net/github/license/micromatch/micromatch)](https://github.com/noahub/gatsby-typescript-starter/blob/master/LICENSE)
 
